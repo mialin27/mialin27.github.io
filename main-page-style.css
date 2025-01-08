@@ -1,7 +1,7 @@
-#completed {
-    color:darkgreen;
+#complete {
+    color:green;
 }
 
 #ongoing {
-    color:darkred;
+    color:red;
 }
